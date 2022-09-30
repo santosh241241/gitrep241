@@ -1,0 +1,9 @@
+{
+	"name": "githubDATAFACTORY241",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cf8e2216-35df-410a-a10a-fff5bedf5ed7",
+		"tenantId": "42ad1c89-58d2-443f-8654-b795d99616ae"
+	}
+}
